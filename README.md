@@ -1,14 +1,5 @@
 ###Description###
-This application is the generator of three-dimensional landscapes with fractal trees.
-
-
-
-### Control keys ###
-* keyboard arrows - moving on.
-* Home/End - increase/decrease height.
-* F1 - exit full screen mode
-* F2 - return to full-screen mode 
-* Esc - exit
+This windows application is the generator of three-dimensional landscapes with fractal trees.
 
 ###Used technologies and tools###
 * Basic: C++, WinAPI/MFC, Visual Studio 2013
