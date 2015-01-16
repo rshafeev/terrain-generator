@@ -5,7 +5,7 @@ This windows application is the generator of three-dimensional landscapes with f
 #Part I#
  [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/5is1VMlSnUQ/0.jpg)](https://www.youtube.com/watch?v=5is1VMlSnUQ)
 #Part II#
- [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/5is1VMlSnUQ/0.jpg)](https://www.youtube.com/watch?v=5is1VMlSnUQ)
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nT-fF0_rEm4/0.jpg)](https://www.youtube.com/watch?v=nT-fF0_rEm4)
 
 
 ###Used technologies and tools###
